@@ -9,7 +9,7 @@ const options = {
     },
     servers: [{ url: 'http://localhost:3000' }],
   },
-  apis: ['./pages/api/*.js'],
+  apis: ['pages/api/**/*.js'],
 };
 
 const swaggerSpec = swaggerJSDoc(options);
