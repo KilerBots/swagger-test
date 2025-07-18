@@ -1,5 +1,3 @@
-// pages/api/zones.js
-
 /**
  * @swagger
  * /api/zones:
