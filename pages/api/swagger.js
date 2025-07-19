@@ -7,7 +7,7 @@ const options = {
       title: 'Rest API',
       version: '1.0.0',
     },
-    servers: [{ url: '/api' }],
+    servers: [{ url: '/' }],
   },
   apis: ['pages/api/**/*.js'],
 };
